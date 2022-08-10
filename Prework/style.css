@@ -1,0 +1,23 @@
+body{
+		background-color: #DDA0DD;
+	}
+h1{
+      text-decoration: underline;
+      
+    	font-style: italic;
+    }
+#div1{
+    	background-color: #E9967A;
+    }
+    #div2{
+    	background-color: #DCDCDC;
+    }
+    #div3{
+    	background-color: #66CDAA;
+    }
+    #div4{
+    	background-color: #FFEBCD;
+    }
+    #div1, #div2, #div3, #div4{
+    	border:  solid;
+    }
